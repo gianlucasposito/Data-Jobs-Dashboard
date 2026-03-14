@@ -1,7 +1,5 @@
 # Data Jobs Dashboard
 
-## Overview
-
 ![Data Jobs Dashboard](data-jobs-dashboard.jpg)
 
 The **Data Jobs Dashboard** is a Power BI project designed for **job seekers**, **career transitioners**, and **professionals exploring new opportunities in data**. It was built to solve a common problem: information about the data job market is often scattered across multiple platforms and difficult to interpret.
