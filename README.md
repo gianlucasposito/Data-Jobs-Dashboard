@@ -24,12 +24,12 @@ This project highlights key **Power BI** and **data analytics** skills:
 - ⚙️ **Power Query / ETL**: Cleaned, transformed, and prepared the raw data
 - 🧮 **DAX Fundamentals**: Built measures and calculations for KPIs and insights
 - **Visualizations Used**
-    - 📊 **Bar Charts** — compare top skills and salaries by role
-    - 🃏 **Cards** — highlight key KPIs
-    - 📋 **Tables** — show detailed insights
+    - 📊 **Bar Charts**: compare top skills and salaries by role
+    - 🃏 **Cards**: highlight key KPIs
+    - 📋 **Tables**: show detailed insights
 - **Interactive Features**
-    - 🎚️ **Slicers** — enable interactive filtering
-    - 🔘 **Buttons & Bookmarks** — improve navigation and report interaction
+    - 🎚️ **Slicers**: enable interactive filtering
+    - 🔘 **Buttons & Bookmarks**: improve navigation and report interaction
 
 ## Dashboard Preview
 
