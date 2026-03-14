@@ -18,7 +18,7 @@ This dashboard helps users answer important questions such as:
 
 ## Dashboard Preview
 
-![Data Jobs Dashboard](data-jobs-dashboard.jpeg)
+![Data Jobs Dashboard](data-jobs-dashboard.jpg)
 
 ## Skills Showcased
 
