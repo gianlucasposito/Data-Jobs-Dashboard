@@ -39,4 +39,4 @@ This project highlights key **Power BI** and **data analytics** skills:
 
 Check out the dashboard in action below:
 
-![Dashboard Preview](images/data-jobs-dashboard-preview.gif)
+![Dashboard Preview](data-jobs-dashboard-preview.gif)
